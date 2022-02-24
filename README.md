@@ -1,2 +1,3 @@
 # dotfiles
-work in progress
+My shitty awesome config. Work in progress
+
